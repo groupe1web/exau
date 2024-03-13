@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
+
+body{
+    position: relative;
+    border-top: 100px solid black;
+    padding: top 100px;;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+.phone .detail{
+    text-align: center;
+}
+
+.phone-detal img{
+    max-width: 100%;
+    height: auto;
+
+}
+
+.phone-detal h2{
+    font-size: 24px;
+    color: #333;
+}
+
+.phone-detal p{
+    font-size: 18px;
+    color: #666;
+}
